@@ -1,6 +1,7 @@
 # NASA Rover Image API Python Project 🚀
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/NASA_Worm_logo.svg/1280px-NASA_Worm_logo.svg.png)
 #### This is a Python project that utilizes NASA's Rover Image API to retrieve and display images captured by various Mars rovers. The project demonstrates the concepts of inheritance and encapsulation through the implementation of classes.
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png)
+
 ## **Project Structure 💻**
 
 The project consists of the following files:
@@ -53,6 +54,6 @@ Variables like `api_key`, `api_url`, `rover_data`, and path are also encapsulate
 In the given code, there is no explicit demonstration of inheritance. However heres an example of how it can be used.
 
 Suppose I have a Rover class that represents a rover on Mars. The Rover class could have attributes such as `name`, `status`, and `max_sol`, as well as methods like `get_photos()` and `download_photos()`.
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/2449px-NASA_logo.svg.png)
 ## *License*
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code for personal or commercial purposes.
